@@ -9,7 +9,7 @@ module.exports = (callback) => {
   const files = fs.readdirSync(config.DIRECTORY_PATH).filter(isJsonFile)
 
   if (files.length > 0) {
-    console.log(`${files.length} files forund in ${config.DIRECTORY_PATH}`)
+    console.log(`${files.length} files found in ${config.DIRECTORY_PATH}`)
     sendMail(files, (error, data) => {
       if (error) {
         console.error(error)

@@ -1,7 +1,0 @@
-[
-  "Kunne du hjulpet meg litt? Det har seg slik at jeg har funnet ${numberOfFiles} filer i mappen ${directoryPath}",
-  "Har du noe tid til overs? Jeg har oppdaget ${numberOfFiles} filer i mappen ${directoryPath}",
-  "Vil du leke en lek? Det er ${numberOfFiles} filer i mappen ${directoryPath} kan du gjette hvorfor?",
-  "Er det mandag? Kan virke slik. Det er nemlig ${numberOfFiles} filer i mappen ${directoryPath}",
-  "Unnskyld meg? Kan du kikke på de ${numberOfFiles} filene i mappen ${directoryPath}?"
-]
