@@ -1,4 +1,6 @@
 # tfk-sendmail-if-json
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/telemark/tfk-sendmail-if-json.svg)](https://greenkeeper.io/)
 Scans a folder sends mail if it contains json-files
 
 ## Docker
